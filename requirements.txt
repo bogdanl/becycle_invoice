@@ -1,0 +1,6 @@
+streamlit
+pandas
+pymupdf
+pdfkit
+python-docx
+xlsxwriter
