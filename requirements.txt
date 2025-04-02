@@ -4,3 +4,4 @@ pymupdf
 pdfkit
 python-docx
 xlsxwriter
+weasyprint
