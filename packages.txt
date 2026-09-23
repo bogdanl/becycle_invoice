@@ -1,6 +1,3 @@
-libpangocairo-1.0-0
-libpango1.0-0
-libpango1.0-dev
-libcairo2
-libgdk-pixbuf2.0-0
-libffi-dev
+libpango-1.0-0
+libpangoft2-1.0-0
+libharfbuzz-subset0
